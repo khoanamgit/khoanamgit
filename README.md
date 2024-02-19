@@ -17,7 +17,7 @@
 <div align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
   <code><img height="30" src="https://github.com/github/explore/blob/a87affe848d686a8c2acf57cabd282550eb750b2/topics/react/react.png"></code>&nbsp;
-  <code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/angular/angular.png">
+  <code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/angular/angular.png"></code>&nbsp;
   <code><img height="30" src="https://github.com/github/explore/blob/bdb16798c8e64ee4111cc080b0a4afcc0adf7136/topics/python/python.png"></code>&nbsp;
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 </div>
